@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "react-netflix-588f7"
-  }
+    "default": "netflix-clone-react-d0968",
+    "staging": "netflix-clone-react-d0968"
+  },
+  "targets": {},
+  "etags": {}
 }
